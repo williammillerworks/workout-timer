@@ -1,5 +1,7 @@
 # Timer Execution Screen - PRD for v0
 
+09.22.25 Make workout timer fit viewport and remove interval badge
+
 ## Overview
 Create a workout timer execution screen that guides users through their custom exercise routines with audio and visual feedback, following Toss app's minimal design principles.
 
