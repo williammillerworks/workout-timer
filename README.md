@@ -2,6 +2,8 @@
 
 09.22.25 Make workout timer fit viewport and remove interval badge
 
+09.23.25 Added workout list selection, comprehensive edit functionality
+
 ## Overview
 Create a workout timer execution screen that guides users through their custom exercise routines with audio and visual feedback, following Toss app's minimal design principles.
 
